@@ -1,5 +1,6 @@
 function checkAnswer() {
     // Identify the correct answer
+
     const correctAnswer = "4";
   
     // Retrieve the user's answer
