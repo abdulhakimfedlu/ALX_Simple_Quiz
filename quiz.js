@@ -13,6 +13,7 @@ function checkAnswer() {
       document.getElementById("feedback").textContent = "That's incorrect. Try again!";
     }
   }
-  
+
+
   // Add an event listener to the "Submit Answer" button
   document.getElementById("submit-answer").addEventListener("click", checkAnswer);
